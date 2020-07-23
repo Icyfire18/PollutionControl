@@ -1,2 +1,3 @@
 # PollutionControl
-This project consists of an Arduino, motor to This project consists of an Arduino, motor to keep a constant check on the pollution level in textile industries. a constant check on the pollution level in textile industries.
+This project consists of an Arduino Uno, motor and BMP 180 Pressure sensor. It keeps a constant check on the pollution level in Textile Industries. 
+It is assumed that the room pressure remains constant.
